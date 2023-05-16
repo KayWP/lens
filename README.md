@@ -1,5 +1,17 @@
 # Lens
 
+First:
+
+  ```bash
+  $ cd lens-starter
+  $ npm install
+  ```
+  
+  Then:
+  ```bash
+  npm rebuild node-sass
+  ```
+
 **Lens** provides a novel way of looking at content on the web. It is designed to make life easier for researchers, reviewers, authors and readers.
 
 - **Read the [announcement](http://elifesciences.org/elife-news/lens)**
